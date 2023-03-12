@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  margin-left: 660px;
+
+}
+nav{
+margin-left: 630px;
+padding-left: 10px;
+background-color: rgb(255, 212, 212);
+}
+#featured-property{
+  margin-left: 300px;
+
+}
+figcaption{
+  font-size: 10px;
+  font-family: Arial;
+  margin-left: 200px;
+  }
+
+  #featured-property,p{
+    /* width: 950px;
+    margin-right: -250px; */
+
+  }
+#details{
+  display: flex;
+  margin-left: 300px;
+  padding: 10px;
+  background: rgb(230, 5, 5);
+  width: 70%;
+  
+  
+}
+
+
+
+
+
